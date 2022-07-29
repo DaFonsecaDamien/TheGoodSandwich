@@ -27,32 +27,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\WhiteBird\\.nuget\\packages\\": {}
+    "C:\\Users\\demmo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ESGI\\C#\\TheGoodSandwich\\SandwichApp\\SandwichApp.csproj",
+      "projectUniqueName": "C:\\Users\\demmo\\Documents\\ESGI\\C#\\TheGoodSandwich\\SandwichApp\\SandwichApp.csproj",
       "projectName": "SandwichApp",
-      "projectPath": "E:\\ESGI\\C#\\TheGoodSandwich\\SandwichApp\\SandwichApp.csproj",
-      "packagesPath": "C:\\Users\\WhiteBird\\.nuget\\packages\\",
-      "outputPath": "E:\\ESGI\\C#\\TheGoodSandwich\\SandwichApp\\obj\\",
+      "projectPath": "C:\\Users\\demmo\\Documents\\ESGI\\C#\\TheGoodSandwich\\SandwichApp\\SandwichApp.csproj",
+      "packagesPath": "C:\\Users\\demmo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\demmo\\Documents\\ESGI\\C#\\TheGoodSandwich\\SandwichApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\WhiteBird\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\demmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\ESGI\\C#\\TheGoodSandwich\\Models\\Models.csproj": {
-              "projectPath": "E:\\ESGI\\C#\\TheGoodSandwich\\Models\\Models.csproj"
+            "C:\\Users\\demmo\\Documents\\ESGI\\C#\\TheGoodSandwich\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\demmo\\Documents\\ESGI\\C#\\TheGoodSandwich\\Models\\Models.csproj"
             }
           }
         }
